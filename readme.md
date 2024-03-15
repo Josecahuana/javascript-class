@@ -20,6 +20,10 @@
    1. PROPIEDAD --- las propiedades no tiene ().
    1. METODO  --- los metodos son llamados usando los ().
 
+ ###  Ejemplos:
+      length - propiedad
+      trim() - metodo
+
 ---
 
 # Number
