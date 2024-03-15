@@ -45,12 +45,12 @@
 
 ### ALGUNAS CONDICIONES
 
-   1. + -> suma
-   1. - -> resta
-   1. * -> multiplicacion 
+   1. (+) suma
+   1. (-) -> resta
+   1. (*) -> multiplicacion 
    1. / -> division
-   1. > -> mayor
-   1. >= -> mayor igual
+   1. (>) -> mayor
+   1. (>=) -> mayor igual
    1. < -> menor
    1. <= -> menor igual
    1. == -> igual (forma escrita)
