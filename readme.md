@@ -30,11 +30,11 @@
 
 1. Es otro tipo de dato - usado para numeros
 
-### Ejemplos:
+ ### Ejemplos:
 
    const number = 10;
 
-### Cambiar de string a number
+ ### Cambiar de string a number
    toString
 
 ---
@@ -43,7 +43,7 @@
 
 1. Lad condicionales permiten tener un poco de logica en lo que querramos de resultado
 
-### ALGUNAS CONDICIONES
+ ### ALGUNAS CONDICIONES
 
    1. (+) suma
    1. (-) -> resta
